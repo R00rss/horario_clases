@@ -17,8 +17,7 @@ thead {
 
 .table__container>table {
     color: rgb(5, 87, 87);
-    width: 95%;
-    margin: 1.5rem;
+    margin: 1rem;
 }
 
 .title__table {

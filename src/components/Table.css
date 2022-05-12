@@ -1,0 +1,90 @@
+.table__container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(243, 235, 239);
+    box-shadow: 10px 8px 23px 1px rgba(0, 0, 0, 1);
+    -webkit-box-shadow: 10px 8px 23px 1px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 10px 8px 23px 1px rgba(0, 0, 0, 1);
+    border-radius: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+thead {
+    position: relative;
+    bottom: 0.5rem;
+}
+
+.table__container>table {
+    color: rgb(5, 87, 87);
+    width: 95%;
+    margin: 1.5rem;
+}
+
+.title__table {
+    background-color: rgb(199, 163, 180);
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+td,
+th {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 10px;
+    transition: all 250ms ease;
+    transform: scale(1);
+}
+
+td:hover,
+th:hover {
+    position: relative;
+    z-index: 1;
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+.materia {
+    color: white;
+
+}
+
+.CG {
+    background: rgb(0, 36, 20);
+}
+
+.IA {
+    background-color: red;
+}
+
+.IG {
+    background-color: blue;
+}
+
+.R2 {
+    background-color: aquamarine;
+}
+
+.BDD {
+    background-color: yellow;
+}
+
+.Compu-1{
+    background-color: rgb(200, 60, 162);
+}
+.Estadística{
+    background-color: rgb(16, 166, 207);
+}
+.Cuántica-2{
+    background-color: rgb(16, 207, 178);
+}
+.Formulación{
+    background-color: rgb(182, 16, 207);
+}
+
+.None,
+.td__hora,
+th {
+    background-color: rgb(243, 235, 239);
+}

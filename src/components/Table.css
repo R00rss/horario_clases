@@ -70,19 +70,24 @@ th:hover {
     background-color: yellow;
 }
 
-.Compu-1{
+.Compu-1 {
     background-color: rgb(200, 60, 162);
 }
-.Estadística{
+
+.Estadística {
     background-color: rgb(16, 166, 207);
 }
-.Cuántica-2{
+
+.Cuántica-2 {
     background-color: rgb(16, 207, 178);
 }
-.Formulación{
+
+.Formulación {
     background-color: rgb(182, 16, 207);
 }
-
+.ALMUERZO{
+    background-color: rgb(203, 203, 29);
+}
 .None,
 .td__hora,
 th {

@@ -24,7 +24,7 @@ const Table = () => {
         ["None", "None", "None", "Estadística", "Compu-1", "None"],
         ["None", "Estadística", "None", "None", "None", "None"],
         ["None", "Estadística", "None", "None", "None", "None"],
-        ["None", "None", "None", "None", "None", "None"],
+        ["ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO"],
         ["None", "Cuántica-2", "None", "Cuántica-2", "None", "None"],
         ["None", "Cuántica-2", "None", "Cuántica-2", "None", "None"],
         ["None", "None", "None", "None", "None", "None"],

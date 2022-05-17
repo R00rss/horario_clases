@@ -18,10 +18,10 @@ const Table = () => {
         ["None", "BDD", "None", "None", "None", "None"],
     ] */
     const materias = [
-        ["Compu-1", "None", "Compu-1", "None", "None", "None"],
         ["Compu-1", "None", "Compu-1", "None", "Formulación", "None"],
-        ["None", "None", "None", "Estadística", "Formulación", "None"],
-        ["None", "None", "None", "Estadística", "Compu-1", "None"],
+        ["Compu-1", "None", "Compu-1", "None", "Formulación", "None"],
+        ["None", "None", "Estadística", "None", "Compu-1", "None"],
+        ["None", "None", "Estadística", "None", "None", "None"],
         ["None", "Estadística", "None", "None", "None", "None"],
         ["None", "Estadística", "None", "None", "None", "None"],
         ["ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO", "ALMUERZO"],
